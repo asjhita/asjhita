@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @asjhita
 - 👀 I’m interested in learning how to do frontend developing
-- 🌱 I’m currently learning Maths, English, Non-Verbal Reasoning and Verbal Reasoning 😂😂😂
+- 🌱 I’m currently learning backend developing
 - 💞️ I’m looking to collaborate on nothing
 - 📫 You may not contact me
 - 😄 My pronouns are he/him
-- ⚡ Fun fact: I am studying for 11+ exam right now
-- Please do not contact me, do not mention my exams and yeah. That's it.
+- ⚡ Fun fact: In all honesty, all fun facts are not fun so I will not share one
