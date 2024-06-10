@@ -1,4 +1,4 @@
-#@asjhita
+#asjhita
 Hello, my account name is @asjhita.
 I'm a student in the United Kingdom and I am trying to master frontend and backend developing.
 I'm currently learning HTML, CSS, JavaScript, React, Node.js, Express.js, SQL and Python.
