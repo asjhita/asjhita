@@ -31,7 +31,7 @@ I'm a big believer in the power of open-source. Here are some of the projects I'
 
 - **https://github.com/cosmicpython/book** - I helped to make it look more sleek as sending the fixed code. I will not be found in the contributors list though
 - **https://github.com/electron/electron** - I mean, I didn't contribute to it but I highly reccomend it.
-- 
+
 ## 🧩 Developer Philosophy
 
 As a developer, I value:
@@ -42,7 +42,7 @@ As a developer, I value:
 
 ## 🌟 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=asjhita&show_icons=true&theme=radical)
+![asjhita's GitHub stats](https://github-readme-stats.vercel.app/api?username=asjhita&show_icons=true&theme=radical)
 
 ## ⚡ Fun Facts
 
