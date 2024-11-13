@@ -17,13 +17,20 @@ I'm asjhita — a developer, tech enthusiast, and lifelong learner with a passio
 I work with a variety of programming languages, frameworks, and tools. Here are some of my go-to technologies:
 
 ### Languages
-![Languages](https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=white) ![Languages](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Languages](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![Languages](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![Languages](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
+![Languages](https://img.shields.io/badge/-Python-3572A5?logo=python&logoColor=white) ![Languages](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Languages](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![Languages](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
+
+
 
 ### Frameworks
-![Frameworks](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) ![Frameworks](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Frameworks](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+![Frameworks](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) ![Frameworks](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Frameworks](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
+
+
+
 
 ### Tools
-![Tools](https://img.shields.io/badge/-Vim-019733?logo=vim&logoColor=white) ![Tools](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Tools](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Tools](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![Tools](https://img.shields.io/badge/-Vim-019733?logo=vim&logoColor=white) ![Tools](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Tools](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Tools](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Hyprland](https://img.shields.io/badge/Hyprland-3FC5FF?logo=hyprland&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+
+
 
 ## 🌐 Open-Source Contributions
 
