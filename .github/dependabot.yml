@@ -1,0 +1,26 @@
+version: 2
+updates:
+  - package-ecosystem: "npm" # For JavaScript/Node.js dependencies
+    directory: "/" # Location of the package.json
+    schedule:
+      interval: "daily" # Frequency of checks
+
+  - package-ecosystem: "github-actions" # For GitHub Actions workflows
+    directory: "/" # Location of .github/workflows
+    schedule:
+      interval: "daily"
+
+  - package-ecosystem: "docker" # For Docker dependencies
+    directory: "/" # Location of Dockerfile
+    schedule:
+      interval: "daily"
+
+  - package-ecosystem: "maven" # For Java/Maven projects (if applicable)
+    directory: "/" # Location of pom.xml
+    schedule:
+      interval: "daily"
+
+  - package-ecosystem: "pip" # For Python dependencies
+    directory: "/" # Location of requirements.txt
+    schedule:
+      interval: "daily"
