@@ -1,1 +1,22 @@
-
+<slc type="create"/"private">
+  def scripts: type-create
+  markdown-supported: yes
+  debug-scripts"asjhita/asjhita" {
+    type: folder;
+    scripts: scripts [
+      build: folder
+      subfolders: yes
+      images-inc: yes
+      date-created
+    ]
+  }
+  text {
+    <p>
+      Dear maintainer, once you have fixed the debug files, please add image files and upload them via Git CMD
+    </p>
+  }
+  images{
+    folders: subfolders: visa..-(u)/images
+    first: init-commit Err:notfound (Code101)
+  }
+</slc>
