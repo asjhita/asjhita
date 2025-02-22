@@ -9,7 +9,7 @@ I'm asjhita — a developer, tech enthusiast, and lifelong learner with a passio
 - **🌱 Currently Learning:** I am learning SQL50, Electron and Node.js
 - **💼 Professional Experience:** I don't really have any professional experience apart from attempting to make a SIM card company with my web developing skils.
 - **💬 Ask Me About:** You may ask me about any questions about Linux, web development (Not Backend) and um... really anything apart from automation.
-- **📫 How to Reach Me:** Sorry, you may not reach me via any email or phone number but I will open a forum page on a website soon for you to reach me.
+- **📫 How to Reach Me:** You can reach me via email to asjhita-github@hotmail.com and I will create a forum page to contact me.
 - **✨ What I Specialise In:** I think it may be a bit obvious but I like web developing. Any requests? Send them my way.
 
 ## 🔨 Tools & Technologies
