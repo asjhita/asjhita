@@ -31,14 +31,6 @@ I work with a variety of programming languages, frameworks, and tools. Here are 
 ![Tools](https://img.shields.io/badge/-Vim-019733?logo=vim&logoColor=white) ![Tools](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Tools](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Tools](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![Hyprland](https://img.shields.io/badge/Hyprland-3FC5FF?logo=hyprland&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 
 
-
-## 🌐 Open-Source Contributions
-
-I'm a big believer in the power of open-source. Here are some of the projects I've contributed to:
-
-- **https://github.com/cosmicpython/book** - I helped to make it look more sleek as sending the fixed code. I will not be found in the contributors list though
-- **https://github.com/electron/electron** - I mean, I didn't contribute to it but I highly reccomend it.
-
 ## 🧩 Developer Philosophy
 
 As a developer, I value:
